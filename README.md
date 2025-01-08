@@ -1,5 +1,5 @@
 - 👋 Hi, we are @NJSC23!
-- 👀 We are interested in All things Cyber
+- 👀 We are interested in all things Cyber
 - 🌱 We are currently learning Python, CTFs, and Linux
 - ⚡ Fun fact: We are amazing at coding
 
